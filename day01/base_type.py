@@ -7,7 +7,6 @@ def str_demo():
     print(aint)
     print(type(aint))
 
-
 # 同一个 层
 def add(aint, bint):
     print(aint)
